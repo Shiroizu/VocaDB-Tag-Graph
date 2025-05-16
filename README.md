@@ -3,7 +3,9 @@ Export [VocaDB tags](https://vocadb.net/Tag) as markdown with frontmatter.
 Browse and quickly filter tags with Obsidian Graph View:
 https://help.obsidian.md/plugins/search#Search+properties
 
-Tag metadata https://vocadb.net/api/tags/32/details is exported as
+The current export is generated on 2025-05-11.
+
+Tag metadata https://vocadb.net/api/tags/32/details is exported as:
 
 ```markdown
 ---
@@ -44,3 +46,5 @@ picture: false
 {translated description here, if exists}
 
 ```
+
+Obsidian generates a corresponding database based on obsidian `#tags`, `[[links]]` and the frontmatter properties.
