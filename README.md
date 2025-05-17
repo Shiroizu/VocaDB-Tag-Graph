@@ -9,7 +9,7 @@ The current export is generated on 2025-05-11.
 
 - Download and extract repository ZIP, or `git clone https://github.com/Shiroizu/VocaDB-Tag-Graph`
 - Install https://obsidian.md/
-- Open `VocaDB-Tag-Graph/pages` as a "vault""
+- Open `VocaDB-Tag-Graph/pages` as a "vault"
 - Open [Graph View](https://help.obsidian.md/plugins/graph)
 
 ## Details
