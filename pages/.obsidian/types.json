@@ -1,0 +1,19 @@
+{
+  "types": {
+    "additionalNames": "multitext",
+    "related": "multitext",
+    "mappedNicoTags": "multitext",
+    "newTargets": "multitext",
+    "links": "multitext",
+    "commentCount": "number",
+    "albumCount": "number",
+    "artistCount": "number",
+    "eventCount": "number",
+    "eventSeriesCount": "number",
+    "followerCount": "number",
+    "songListCount": "number",
+    "descriptionLength": "number",
+    "createDate": "date",
+    "picture": "checkbox"
+  }
+}
