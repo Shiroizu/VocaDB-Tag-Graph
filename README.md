@@ -5,6 +5,15 @@ https://help.obsidian.md/plugins/search#Search+properties
 
 The current export is generated on 2025-05-11.
 
+## Usage
+
+- Download and extract repository ZIP, or `git clone https://github.com/Shiroizu/VocaDB-Tag-Graph`
+- Install https://obsidian.md/
+- Open `VocaDB-Tag-Graph/pages` as a "vault""
+- Open [Graph View](https://help.obsidian.md/plugins/graph)
+
+## Details
+
 Tag metadata https://vocadb.net/api/tags/32/details is exported as:
 
 ```markdown
