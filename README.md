@@ -1,4 +1,4 @@
-Export [VocaDB tags](https://vocadb.net/Tag) as markdown with frontmatter.
+Export [VocaDB tags](https://vocadb.net/Tag) as markdown with front matter.
 
 Browse and quickly filter tags with Obsidian Graph View:
 https://help.obsidian.md/plugins/search#Search+properties
@@ -47,4 +47,4 @@ picture: false
 
 ```
 
-Obsidian generates a corresponding database based on obsidian `#tags`, `[[links]]` and the frontmatter properties.
+Obsidian generates a corresponding database based on obsidian `#tags`, `[[links]]` and the front matter properties.
